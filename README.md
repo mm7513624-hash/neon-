@@ -1,4 +1,4 @@
-# NEON CORE — versión mejorada v2
+# NEON CORE
 
 Juego web de reflejos y estrategia para navegador.
 
